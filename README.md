@@ -25,4 +25,3 @@ This project was specifically designed to strengthen my understanding of core Re
 * Mapping Data to Components
 * Styling in React
 
----
