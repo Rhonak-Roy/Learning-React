@@ -2,7 +2,7 @@
 
 A simple but elegant travel journal page built with React, created to practice foundational concepts like creating reusable components and passing data through props. This project is based on a module from the Scrimba "Learn React" course.
 
-Live Demo: [**learning-react-opal-iota.vercel.app**](learning-react-opal-iota.vercel.app)
+Live Demo: [**https://learning-react-opal-iota.vercel.app**](learning-react-opal-iota.vercel.app)
 
 ---
 
